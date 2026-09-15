@@ -4,6 +4,12 @@
 
 ---
 
+
+
+https://github.com/user-attachments/assets/bf3a06ed-186f-4f21-bad6-1a15baedb27f
+
+
+
 ## 📌 Overview
 
 **Medical RAG Assistant** is an AI-powered question-answering system that combines **Retrieval-Augmented Generation (RAG)** with the **Gemini API** to answer questions about patient medical records.
@@ -667,3 +673,5 @@ Special thanks to the open-source communities behind **SentenceTransformers, FAI
 This project is intended for educational and research purposes.
 
 Please review the licenses and terms of use of the external models, APIs, libraries, and datasets before using this project in a production environment.
+
+
